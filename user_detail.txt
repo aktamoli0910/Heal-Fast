@@ -1,0 +1,13 @@
+
+ishi bansal 87 8 lakshmi_nagar L0
+Sanchita Bansal 12 3 lakshmi_nagar L0
+abc xyz 45 4 rajnagar L6
+abc xyz 67 7 rajnagar L6
+gfg hhh 7 8 rajnagar L6
+ishita bansal 11 9 mariyam_nagar L1
+khushi bansal 99 11 nehru_nagar L11
+ishitaaa bansallll 911 90 lakshmi_nagar L0
+ishita bansal 19 10 lakshmi_nagar L0
+ishita bansal 99 80 lakshmi_nagar L0
+Ishita Bansal 0000 1111 mariam_nagar L1
+abhishek tamoli 1234 2345 lakshmi_nagar L0
